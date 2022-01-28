@@ -3,6 +3,17 @@
 This project was created in React for the Kabisa coding assignment.
 Enjoy some hand picked quotes within the field of computer science. 
 
+## Functionality
+- Basic API which can fetch quotes from the Storm Quotes API.
+- Basic mobile friendly design for all devices.
+- Showing a random quote which the user can refresh at will.
+- Showing the top 5 quotes retrieved from the popular quotes on [Quotes](http://quotes.stormconsultancy.co.uk/popular).
+
+## Dependencies used
+- Material UI used as much as possible.
+- Material UI Carousel (third party implementation at [Material UI Carousel](https://www.npmjs.com/package/react-material-ui-carousel))
+- Axios for data fetching
+
 ## Installation steps
 
 1. Clone the repository onto your machine.
