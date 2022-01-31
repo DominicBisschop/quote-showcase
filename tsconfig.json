@@ -7,5 +7,9 @@
     "strict": true,
     "skipLibCheck": true,
     "jsx": "react"
-  }
+  },
+  "include": [
+    "src/components",
+    "src/custom.d.ts"
+  ]
 }

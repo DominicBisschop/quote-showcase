@@ -10,6 +10,7 @@ const useStyles = makeStyles((theme: Theme) =>
             backgroundColor: theme.palette.primary.main,
             borderRadius: "5px",
             color: theme.palette.common.white,
+            height: "fit-content"
         }
     })
 );

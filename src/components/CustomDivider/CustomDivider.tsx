@@ -1,24 +1,14 @@
-import {FC} from "react";
-import {Divider, Theme} from "@mui/material";
-import React from "react";
-import {createStyles, makeStyles} from "@mui/styles";
-
-const useStyles = makeStyles((theme: Theme) =>
-    createStyles({
-        customDivider: {
-            marginTop: "1em",
-            borderColor: theme.palette.common.white,
-        }
-    })
-);
+import React, {FC} from "react";
+import {Box, Divider} from "@mui/material";
+import {theme} from "../../styles/theme";
 
 export const CustomDivider: FC = () => {
-    const classes = useStyles();
-
     return (
-        <Divider
-            className={classes.customDivider}
-            variant="inset"
-        />
+        <Box my={3}>
+            <Divider
+                variant="middle"
+                color={theme.palette.common.white}
+            />
+        </Box>
     )
 }
