@@ -8,11 +8,15 @@ Enjoy some hand picked quotes within the field of computer science.
 - Basic mobile friendly design for all devices.
 - Showing a random quote which the user can refresh at will.
 - Showing the top 5 quotes retrieved from the popular quotes on [Quotes](http://quotes.stormconsultancy.co.uk/popular).
+- Showing 5 random quotes picked from the full list of quotes.
+- Facebook/Twitter sharing with embedded buttons.
 
 ## Dependencies used
-- Material UI used as much as possible.
+- Material UI used as much as possible. [Material UI](https://www.npmjs.com/package/@mui/material)
 - Material UI Carousel (third party implementation at [Material UI Carousel](https://www.npmjs.com/package/react-material-ui-carousel))
-- Axios for data fetching
+- Axios for data fetching from API's. [Axios](https://www.npmjs.com/package/axios)
+- React share for Facebook/Twitter embedded share buttons. [React share](https://www.npmjs.com/package/react-share)
+- React Device Detect for detecting mobile devices base on viewport. [React device detect](https://www.npmjs.com/package/react-device-detect)
 
 ## Installation steps
 
