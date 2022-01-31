@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/quote-showcase/static/js/main.d0f82fb3.js",
+    "main.js": "/quote-showcase/static/js/main.b57e8e2c.js",
     "static/media/kabisa-logo-light.svg": "/quote-showcase/static/media/kabisa-logo-light.e57a8a690d6935ea208190a3e9787242.svg",
     "index.html": "/quote-showcase/index.html",
-    "main.d0f82fb3.js.map": "/quote-showcase/static/js/main.d0f82fb3.js.map"
+    "main.b57e8e2c.js.map": "/quote-showcase/static/js/main.b57e8e2c.js.map"
   },
   "entrypoints": [
-    "static/js/main.d0f82fb3.js"
+    "static/js/main.b57e8e2c.js"
   ]
 }
