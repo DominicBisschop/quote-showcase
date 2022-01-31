@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.5c643de2.js",
-    "index.html": "/index.html",
-    "main.5c643de2.js.map": "/static/js/main.5c643de2.js.map"
+    "main.js": "/quote-showcase/static/js/main.5c643de2.js",
+    "index.html": "/quote-showcase/index.html",
+    "main.5c643de2.js.map": "/quote-showcase/static/js/main.5c643de2.js.map"
   },
   "entrypoints": [
     "static/js/main.5c643de2.js"
